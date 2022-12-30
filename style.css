@@ -1,0 +1,19 @@
+#calculette {
+    width: 150px;
+    height: 100px;
+    overflow:visible;
+}
+
+.number_calcul {
+    padding: 10px;
+    margin: 5px;
+}
+
+.middle {
+    margin-left: 50px;
+}
+
+#express {
+    height: 50px;
+    width: 150px;
+}
